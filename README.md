@@ -1,0 +1,6 @@
+- 👋 Hi, I’m May
+- 👀 I’m interested in full-stack development with Laravel and React.
+- 🌱 I’m currently learning new tech stack.
+- 💞️ I’m looking to collaborate as freelancer in web development.
+- 📫 How to reach me => [Portfolio](http://showcase.maythetnaing.serv00.net/)
+- ⚡ Fun fact: Exiciting opportunities
